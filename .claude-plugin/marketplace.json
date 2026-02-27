@@ -1,0 +1,15 @@
+{
+  "name": "sales-marketing-ops",
+  "description": "Complete sales and marketing operations system — lead research, content creation, email triage, meeting prep, and content writing in one installable package.",
+  "owner": {
+    "name": "Mansel Scheffel"
+  },
+  "plugins": [
+    {
+      "name": "sales-marketing-ops",
+      "source": ".",
+      "description": "Complete sales and marketing operations system — lead research, content creation, email triage, meeting prep, and content writing in one installable package.",
+      "version": "1.0.0"
+    }
+  ]
+}
